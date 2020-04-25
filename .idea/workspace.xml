@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b06519f4-9da2-46b9-9abb-57a8d9def5aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="React File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZHzPRCd9kOTd8ZdWencfANBFeD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="H:/尚硅谷 React 视频教程全集/源代码/code/react_test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\react\react_app\src" />
+      <recent name="F:\react\react_app" />
+      <recent name="F:\react\react_app\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\react\react_app\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b06519f4-9da2-46b9-9abb-57a8d9def5aa" name="Default Changelist" comment="" />
+      <created>1584510783159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584510783159</updated>
+      <workItem from="1584510807458" duration="9441000" />
+      <workItem from="1584586263383" duration="12413000" />
+      <workItem from="1584668498672" duration="4138000" />
+      <workItem from="1584692744399" duration="2716000" />
+      <workItem from="1584757175789" duration="7873000" />
+      <workItem from="1584925107664" duration="11891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="820" y="214" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1584515175177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="820" y="214" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584515175177" />
+    <state x="959" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584515433063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="959" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584515433063" />
+    <state x="682" y="178" key="FileChooserDialogImpl" timestamp="1584973461127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="682" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584973461127" />
+    <state x="364" y="65" key="SettingsEditor" timestamp="1584589650315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="364" y="65" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584589650315" />
+    <state x="777" y="190" key="run.anything.popup" timestamp="1584515899304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="777" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584515899304" />
+  </component>
+</project>
